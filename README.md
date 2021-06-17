@@ -1,4 +1,7 @@
 # Transformers For Medical Image Analysis
+<p align="center">
+<img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/Ha_Ha_Ha_No.gif" width="180"/>
+</p>
 
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|

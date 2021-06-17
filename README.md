@@ -9,7 +9,9 @@
 |04/28/2021|Eunji Jun |Medical Transformer: Universal Brain Encoder for 3D MRI Analysis | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2104.13633-b31b1b.svg)](https://arxiv.org/abs/2104.13633)|
 |03/18/2021|Ali Hatamizadeh |UNETR: Transformers for 3D Medical Image Segmentation | CT & MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2103.10504-b31b1b.svg)](https://arxiv.org/abs/2103.10504)|
 |03/10/2021|Olivier Petit |U-Net Transformer: Self and Cross Attention for Medical Image Segmentation | CT | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2103.06104-b31b1b.svg)](https://arxiv.org/abs/2103.06104)|
+|03/05/2021|Boxiang Yun |SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation | HSI | 3D | [PyTorch](https://github.com/hfut-xc-yun/SpecTr) | [![arXiv](https://img.shields.io/badge/arXiv-2103.03604-b31b1b.svg)](https://arxiv.org/abs/2103.03604)|
 |02/21/2021|Jeya Maria Jose Valanarasu |Medical Transformer: Gated Axial-Attention for Medical Image Segmentation | Ultrasound & Microscopic |2D| [PyTorch](https://github.com/jeya-maria-jose/Medical-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2102.10662-b31b1b.svg)](https://arxiv.org/abs/2102.10662)|
+|02/16/2021|Yundong Zhang |TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation | Colonoscopy |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2102.08005-b31b1b.svg)](https://arxiv.org/abs/2102.08005)|
 |02/08/2021|Jieneng Chen |TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation | CT & MRI|2D| [PyTorch](https://github.com/Beckschen/TransUNet) | [![arXiv](https://img.shields.io/badge/arXiv-2102.04306-b31b1b.svg)](https://arxiv.org/abs/2102.04306)|
 
 

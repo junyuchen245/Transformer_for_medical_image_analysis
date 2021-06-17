@@ -38,7 +38,8 @@ Transformer related papers in medical imaging.
 ## Image Denoising
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
-|05/24/2021|Zhicheng Zhang |TransCT: Dual-path Transformer for Low Dose Computed Tomography | CT | 2D | N/A | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2103.00634-b31b1b.svg)](https://arxiv.org/abs/2103.00634)|
+|06/08/2021|Dayang Wang |TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising | CT | 2D | N/A | MLMI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2106.04650-b31b1b.svg)](https://arxiv.org/abs/2106.04650)|
+|02/28/2021|Zhicheng Zhang |TransCT: Dual-path Transformer for Low Dose Computed Tomography | CT | 2D | N/A | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2103.00634-b31b1b.svg)](https://arxiv.org/abs/2103.00634)|
 
 ## Image Reconstruction
 |Date|First Author|Title|Modality|ND|Code|Paper|

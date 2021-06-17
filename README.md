@@ -1,4 +1,4 @@
-# Transformers For Medical Image Analysis
+# Transformer For Medical Image Analysis
 Transformer related papers in medical imaging.
 
 <p align="center">

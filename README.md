@@ -23,7 +23,7 @@
 ## Image Registration
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
-|04/13/2021|Junyu Chen |ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration | MRI | 3D | [PyTorch](https://github.com/Beckschen/TransUNet) | MIDL 2021[![arXiv](https://img.shields.io/badge/arXiv-2104.06468-b31b1b.svg)](https://arxiv.org/abs/2104.06468)|
+|04/13/2021|Junyu Chen |ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration | MRI | 3D | [PyTorch](https://github.com/Beckschen/TransUNet) | MIDL 2021 [![arXiv](https://img.shields.io/badge/arXiv-2104.06468-b31b1b.svg)](https://arxiv.org/abs/2104.06468)|
 
 ## Image Classification
 |Date|First Author|Title|Modality|ND|Code|Paper|
@@ -34,7 +34,7 @@
 ## Image Denoising
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
-|05/24/2021|Zhicheng Zhang |TransCT: Dual-path Transformer for Low Dose Computed Tomography | CT | 2D | N/A | MICCAI 2021[![arXiv](https://img.shields.io/badge/arXiv-2103.00634-b31b1b.svg)](https://arxiv.org/abs/2103.00634)|
+|05/24/2021|Zhicheng Zhang |TransCT: Dual-path Transformer for Low Dose Computed Tomography | CT | 2D | N/A | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2103.00634-b31b1b.svg)](https://arxiv.org/abs/2103.00634)|
 
 ## Image Reconstruction
 |Date|First Author|Title|Modality|ND|Code|Paper|

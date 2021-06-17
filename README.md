@@ -46,3 +46,11 @@ Transformer related papers in medical imaging.
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
 |05/21/2021|Yilmaz Korkmaz |Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.08059-b31b1b.svg)](https://arxiv.org/abs/2105.08059)|
+
+## Transformer original papers
+|Date|First Author|Title|Code|Paper|
+|---|---|---|---|---|
+|03/25/2021|Ze Liu |Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | [PyTorch](https://github.com/microsoft/Swin-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2103.14030-b31b1b.svg)](https://arxiv.org/abs/2103.14030)|
+|10/22/2021|Alexey Dosovitskiy |An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | [PyTorch](https://github.com/google-research/vision_transformer) | ICLR 2020 [![arXiv](https://img.shields.io/badge/arXiv-2010.11929-b31b1b.svg)](https://arxiv.org/abs/2010.11929)|
+|12/06/2017| Ashish Vaswani | Attention Is All You Need | N/A | NIPS 2017 [![arXiv](https://img.shields.io/badge/arXiv-1706.03762-b31b1b.svg)](https://arxiv.org/abs/1706.03762)|
+

@@ -32,6 +32,7 @@ Transformer related papers in medical imaging.
 ## Image Classification
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|06/02/2021|Zhuchen Shao |TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication | Pathology | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.00908-b31b1b.svg)](https://arxiv.org/abs/2106.00908)|
 |04/28/2021|Eunji Jun |Medical Transformer: Universal Brain Encoder for 3D MRI Analysis | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2104.13633-b31b1b.svg)](https://arxiv.org/abs/2104.13633)|
 |03/10/2021|Yin Dai |TransMed: Transformers Advance Multi-modal Medical Image Classification | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2103.05940-b31b1b.svg)](https://arxiv.org/abs/2103.05940)|
 

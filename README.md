@@ -34,6 +34,7 @@ Transformer related papers in medical imaging.
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
 |06/02/2021|Zhuchen Shao |TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication | Pathology | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.00908-b31b1b.svg)](https://arxiv.org/abs/2106.00908)|
+|05/23/2021|Zhiqiang Shen |COTR: Convolution in Transformer Network for End to End Polyp Detection | Colonoscopy | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.10925-b31b1b.svg)](https://arxiv.org/abs/2105.10925)|
 |04/28/2021|Eunji Jun |Medical Transformer: Universal Brain Encoder for 3D MRI Analysis | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2104.13633-b31b1b.svg)](https://arxiv.org/abs/2104.13633)|
 |03/10/2021|Yin Dai |TransMed: Transformers Advance Multi-modal Medical Image Classification | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2103.05940-b31b1b.svg)](https://arxiv.org/abs/2103.05940)|
 
@@ -42,6 +43,12 @@ Transformer related papers in medical imaging.
 |---|---|---|---|---|---|---|
 |06/08/2021|Dayang Wang |TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising | CT | 2D | N/A | MLMI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2106.04650-b31b1b.svg)](https://arxiv.org/abs/2106.04650)|
 |02/28/2021|Zhicheng Zhang |TransCT: Dual-path Transformer for Low Dose Computed Tomography | CT | 2D | N/A | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2103.00634-b31b1b.svg)](https://arxiv.org/abs/2103.00634)|
+
+## Image Synthesis
+|Date|First Author|Title|Modality|ND|Code|Paper|
+|---|---|---|---|---|---|---|
+|05/28/2021|Xuzhe Zhang |PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer | MRI | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.13993-b31b1b.svg)](https://arxiv.org/abs/2105.13993)|
+
 
 ## Image Reconstruction
 |Date|First Author|Title|Modality|ND|Code|Paper|

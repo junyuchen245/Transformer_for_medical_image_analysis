@@ -5,10 +5,11 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 06/17/2021*
+*Last updated: 06/28/2021*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|06/12/2021|Ailiang Lin |DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation | Colonoscopy & Histology ... |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.06716-b31b1b.svg)](https://arxiv.org/abs/2106.06716)|
 |06/02/2021|Shaohua Li |Medical Image Segmentation Using Squeeze-and-Expansion Transformers | Fundus &  Colonoscopy & MRI |2D & 3D| [PyTorch](https://github.com/askerlee/segtran) | IJCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2105.09511-b31b1b.svg)](https://arxiv.org/abs/2105.09511)|
 |05/12/2021|Hu Cao |Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation | CT |2D| [Unknown](https://github.com/HuCaoFighting/Swin-Unet) | [![arXiv](https://img.shields.io/badge/arXiv-2105.05537-b31b1b.svg)](https://arxiv.org/abs/2105.05537)|
 |04/29/2021|Zhuangzhuang Zhang |Pyramid Medical Transformer for Medical Image Segmentation | Microscopic | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2104.14702-b31b1b.svg)](https://arxiv.org/abs/2104.14702)|

@@ -5,7 +5,7 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 07/13/2021*
+*Last updated: 07/17/2021*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|

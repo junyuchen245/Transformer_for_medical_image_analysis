@@ -5,10 +5,12 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 07/31/2021*
+*Last updated: 08/24/2021*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|07/28/2021|Madeleine K. Wyburd |TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations | MRI |2D| [PyTorch](https://github.com/mwyburd/TEDS-Net) | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2107.13542-b31b1b.svg)](https://arxiv.org/abs/2107.13542)|
+|07/19/2021|Guoping Xu |LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation | CT |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2107.08623-b31b1b.svg)](https://arxiv.org/abs/2107.08623)|
 |07/12/2021|Bingzhi Chen |TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation | X-ray & CT ... |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2107.05274-b31b1b.svg)](https://arxiv.org/abs/2107.05274)|
 |07/12/2021|Chang Yao |TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation | CT |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2107.05188-b31b1b.svg)](https://arxiv.org/abs/2107.05188)|
 |07/02/2021|Yunhe Gao |UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation | CT |2D| [PyTorch (unofficial)](https://github.com/HXLH50K/U-Net-Transformer) | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2107.00781-b31b1b.svg)](https://arxiv.org/abs/2107.00781)|
@@ -37,6 +39,7 @@ Transformer related papers in medical imaging.
 ## Image Classification
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|08/20/2021|Christos Matsoukas |Is it Time to Replace CNNs with Transformers for Medical Images? | Mammograms... | 2D | [PyTorch](https://github.com/ChrisMats/medical_transformers) | ICCV 2021 Workshop[![arXiv](https://img.shields.io/badge/arXiv-2108.09038-b31b1b.svg)](https://arxiv.org/abs/2108.09038)|
 |06/02/2021|Zhuchen Shao |TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication | Pathology | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.00908-b31b1b.svg)](https://arxiv.org/abs/2106.00908)|
 |05/23/2021|Zhiqiang Shen |COTR: Convolution in Transformer Network for End to End Polyp Detection | Colonoscopy | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.10925-b31b1b.svg)](https://arxiv.org/abs/2105.10925)|
 |04/28/2021|Eunji Jun |Medical Transformer: Universal Brain Encoder for 3D MRI Analysis | MRI | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2104.13633-b31b1b.svg)](https://arxiv.org/abs/2104.13633)|

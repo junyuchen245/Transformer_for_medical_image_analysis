@@ -5,7 +5,7 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 10/01/2021*
+*Last updated: 10/13/2021*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Transformer related papers in medical imaging.
 |03/05/2021|Boxiang Yun |SpecTr: Spectral Transformer for Hyperspectral Pathology Image Segmentation | HSI | 3D | [PyTorch](https://github.com/hfut-xc-yun/SpecTr) | [![arXiv](https://img.shields.io/badge/arXiv-2103.03604-b31b1b.svg)](https://arxiv.org/abs/2103.03604)|
 |03/04/2021|Yutong Xie |CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation | CT | 3D | [PyTorch](https://github.com/YtongXie/CoTr) | MICCAI 2021[![arXiv](https://img.shields.io/badge/arXiv-2103.03024-b31b1b.svg)](https://arxiv.org/abs/2103.03024)|
 |02/26/2021|Davood Karimi |Convolution-Free Medical Image Segmentation using Transformers | CT & MRI |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2102.13645-b31b1b.svg)](https://arxiv.org/abs/2102.13645)|
-|02/21/2021|Jeya Maria Jose Valanarasu |Medical Transformer: Gated Axial-Attention for Medical Image Segmentation | Ultrasound & Microscopic |2D| [PyTorch](https://github.com/jeya-maria-jose/Medical-Transformer) | [![arXiv](https://img.shields.io/badge/arXiv-2102.10662-b31b1b.svg)](https://arxiv.org/abs/2102.10662)|
+|02/21/2021|Jeya Maria Jose Valanarasu |Medical Transformer: Gated Axial-Attention for Medical Image Segmentation | Ultrasound & Microscopic |2D| [PyTorch](https://github.com/jeya-maria-jose/Medical-Transformer) | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2102.10662-b31b1b.svg)](https://arxiv.org/abs/2102.10662)|
 |02/16/2021|Yundong Zhang |TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation | Colonoscopy |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2102.08005-b31b1b.svg)](https://arxiv.org/abs/2102.08005)|
 |02/08/2021|Jieneng Chen |TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation | CT & MRI|2D| [PyTorch](https://github.com/Beckschen/TransUNet) | [![arXiv](https://img.shields.io/badge/arXiv-2102.04306-b31b1b.svg)](https://arxiv.org/abs/2102.04306)|
 <!---|11/16/2019|Debesh Jha |ResUNet++: An Advanced Architecture for Medical Image Segmentation | Colonoscopy |2D| [TensorFlow](https://github.com/DebeshJha/ResUNetPlusPlus)  [PyTorch](https://github.com/rishikksh20/ResUnet) | IEEE ISM 2019[![arXiv](https://img.shields.io/badge/arXiv-1911.07067-b31b1b.svg)](https://arxiv.org/abs/1911.07067)|-->

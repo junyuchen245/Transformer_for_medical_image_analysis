@@ -5,7 +5,7 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 10/13/2021*
+*Last updated: 10/17/2021*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
@@ -51,13 +51,14 @@ Transformer related papers in medical imaging.
 ## Image Denoising
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
-|09/16/2021|Achleshwar Luthra & Harsh Sulakhe |Eformer: Edge Enhancement based Transformer for Medical Image Denoising | CT | 2D | N/A | ICCV 2021 [![arXiv](https://img.shields.io/badge/arXiv-2109.08044-b31b1b.svg)](https://arxiv.org/abs/2109.08044)|
+|09/23/2021|Achleshwar Luthra & Harsh Sulakhe |Eformer: Edge Enhancement based Transformer for Medical Image Denoising | CT | 2D | N/A | ICCV 2021 [![arXiv](https://img.shields.io/badge/arXiv-2109.08044-b31b1b.svg)](https://arxiv.org/abs/2109.08044)|
 |06/08/2021|Dayang Wang |TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising | CT | 2D | N/A | MLMI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2106.04650-b31b1b.svg)](https://arxiv.org/abs/2106.04650)|
 |02/28/2021|Zhicheng Zhang |TransCT: Dual-path Transformer for Low Dose Computed Tomography | CT | 2D | N/A | MICCAI 2021 [![arXiv](https://img.shields.io/badge/arXiv-2103.00634-b31b1b.svg)](https://arxiv.org/abs/2103.00634)|
 
 ## Image Synthesis
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|10/12/2021|Nicolae-Catalin Ristea |CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation | CT | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2110.06400-b31b1b.svg)](https://arxiv.org/pdf/2110.06400.pdf)|
 |06/30/2021|Onat Dalmaz |ResViT: Residual vision transformers for multi-modal medical image synthesis | MRI & CT | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.16031-b31b1b.svg)](https://arxiv.org/abs/2106.16031)|
 |05/28/2021|Xuzhe Zhang |PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer | MRI | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.13993-b31b1b.svg)](https://arxiv.org/abs/2105.13993)|
 

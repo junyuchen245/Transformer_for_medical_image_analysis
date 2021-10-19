@@ -58,6 +58,7 @@ Transformer related papers in medical imaging.
 ## Image Synthesis
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|10/13/2021|Lingke Kong |Breaking the Dilemma of Medical Image-to-image Translation | MRI | 3D | [PyTorch](https://github.com/Kid-Liet/Reg-GAN) | [![arXiv](https://img.shields.io/badge/arXiv-2110.06465-b31b1b.svg)](https://arxiv.org/pdf/2110.06465.pdf)|
 |10/12/2021|Nicolae-Catalin Ristea |CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation | CT | 3D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2110.06400-b31b1b.svg)](https://arxiv.org/pdf/2110.06400.pdf)|
 |06/30/2021|Onat Dalmaz |ResViT: Residual vision transformers for multi-modal medical image synthesis | MRI & CT | 3D | [PyTorch](https://github.com/icon-lab/ResViT) | [![arXiv](https://img.shields.io/badge/arXiv-2106.16031-b31b1b.svg)](https://arxiv.org/abs/2106.16031)|
 |05/28/2021|Xuzhe Zhang |PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer | MRI | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.13993-b31b1b.svg)](https://arxiv.org/abs/2105.13993)|

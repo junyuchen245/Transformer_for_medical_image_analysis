@@ -42,6 +42,7 @@ Transformer related papers in medical imaging.
 ## Image Classification
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|10/27/2021|Behnaz Gheflati |Vision Transformer for Classification of Breast Ultrasound Images| Ultrasound | 2D | [PyTorch](https://github.com/ChrisMats/medical_transformers) |[![arXiv](https://img.shields.io/badge/arXiv-2110.14731-b31b1b.svg)](https://arxiv.org/abs/2110.14731)|
 |08/20/2021|Christos Matsoukas |Is it Time to Replace CNNs with Transformers for Medical Images? | Mammograms... | 2D | [PyTorch](https://github.com/ChrisMats/medical_transformers) | ICCV 2021 Workshop[![arXiv](https://img.shields.io/badge/arXiv-2108.09038-b31b1b.svg)](https://arxiv.org/abs/2108.09038)|
 |06/02/2021|Zhuchen Shao |TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication | Pathology | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.00908-b31b1b.svg)](https://arxiv.org/abs/2106.00908)|
 |05/23/2021|Zhiqiang Shen |COTR: Convolution in Transformer Network for End to End Polyp Detection | Colonoscopy | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2105.10925-b31b1b.svg)](https://arxiv.org/abs/2105.10925)|

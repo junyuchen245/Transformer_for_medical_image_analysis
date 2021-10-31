@@ -37,7 +37,7 @@ Transformer related papers in medical imaging.
 ## Image Registration
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
-|09/25/2021|Yungeng Zhang |Learning Dual Transformer Network for Diffeomorphic Registration | MRI | 3D | N/A | MICCAI 2021 [![Springer](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)|
+|09/25/2021|Yungeng Zhang |Learning Dual Transformer Network for Diffeomorphic Registration | MRI | 3D | N/A | MICCAI 2021 [Springer](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)|
 |04/13/2021|Junyu Chen |ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration | MRI | 3D | [PyTorch](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) | MIDL 2021 [![arXiv](https://img.shields.io/badge/arXiv-2104.06468-b31b1b.svg)](https://arxiv.org/abs/2104.06468)|
 
 ## Image Classification

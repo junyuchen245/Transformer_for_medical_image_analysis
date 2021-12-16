@@ -5,10 +5,12 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 11/26/2021*
+*Last updated: 12/15/2021*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|12/09/2021|Xiangde Luo |Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer| MRI |2D| [PyTorch](https://github.com/HiLab-git/SSL4MIS)| [![arXiv](https://img.shields.io/badge/arXiv-2112.04894-b31b1b.svg)](https://arxiv.org/abs/2112.04894)|
+|11/29/2021|Yucheng Tang |Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis| CT & MRI |3D| [PyTorch](https://monai.io/research/swin-unetr)| [![arXiv](https://img.shields.io/badge/arXiv-2111.14791-b31b1b.svg)](https://arxiv.org/abs/2111.14791)|
 |11/26/2021|Xiangyu Meng |Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction| CT |2D| N/A| [![arXiv](https://img.shields.io/badge/arXiv-2111.13299-b31b1b.svg)](https://arxiv.org/abs/2111.13299)|
 |11/26/2021|Himashi Peiris |A Volumetric Transformer for Accurate 3D Tumor Segmentation | CT & MRI |3D| [PyTorch](https://github.com/himashi92/VT-UNet)| [![arXiv](https://img.shields.io/badge/arXiv-2111.13300-b31b1b.svg)](https://arxiv.org/abs/2111.13300)|
 |11/15/2021|Dong Yang |T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging | CT |3D| N/A| ICCV 2021 [![arXiv](https://img.shields.io/badge/arXiv-2111.07535-b31b1b.svg)](https://arxiv.org/abs/2111.07535)|

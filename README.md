@@ -9,6 +9,7 @@ Transformer related papers in medical imaging.
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|
 |12/09/2021|Xiangde Luo |Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer| MRI |2D| [PyTorch](https://github.com/HiLab-git/SSL4MIS)| [![arXiv](https://img.shields.io/badge/arXiv-2112.04894-b31b1b.svg)](https://arxiv.org/abs/2112.04894)|
 |11/29/2021|Yucheng Tang |Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis| CT & MRI |3D| [PyTorch](https://monai.io/research/swin-unetr)| [![arXiv](https://img.shields.io/badge/arXiv-2111.14791-b31b1b.svg)](https://arxiv.org/abs/2111.14791)|
 |11/26/2021|Xiangyu Meng |Exploiting full Resolution Feature Context for Liver Tumor and Vessel Segmentation via Fusion Encoder: Application to Liver Tumor and Vessel 3D reconstruction| CT |2D| N/A| [![arXiv](https://img.shields.io/badge/arXiv-2111.13299-b31b1b.svg)](https://arxiv.org/abs/2111.13299)|
@@ -50,6 +51,7 @@ Transformer related papers in medical imaging.
 ## Image Classification
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|
 |10/27/2021|Behnaz Gheflati |Vision Transformer for Classification of Breast Ultrasound Images| Ultrasound | 2D | N/A |[![arXiv](https://img.shields.io/badge/arXiv-2110.14731-b31b1b.svg)](https://arxiv.org/abs/2110.14731)|
 |08/20/2021|Christos Matsoukas |Is it Time to Replace CNNs with Transformers for Medical Images? | Mammograms... | 2D | [PyTorch](https://github.com/ChrisMats/medical_transformers) | ICCV 2021 Workshop[![arXiv](https://img.shields.io/badge/arXiv-2108.09038-b31b1b.svg)](https://arxiv.org/abs/2108.09038)|
 |06/02/2021|Zhuchen Shao |TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication | Pathology | 2D | N/A | [![arXiv](https://img.shields.io/badge/arXiv-2106.00908-b31b1b.svg)](https://arxiv.org/abs/2106.00908)|

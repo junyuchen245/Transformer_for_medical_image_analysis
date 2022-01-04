@@ -5,10 +5,11 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 12/29/2021*
+*Last updated: 01/04/2022*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|01/03/2022|Yixuan Wu |D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation| MRI & CT |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2201.00462-b31b1b.svg)](https://arxiv.org/abs/2201.00462)|
 |12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|
 |12/09/2021|Xiangde Luo |Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer| MRI |2D| [PyTorch](https://github.com/HiLab-git/SSL4MIS)| [![arXiv](https://img.shields.io/badge/arXiv-2112.04894-b31b1b.svg)](https://arxiv.org/abs/2112.04894)|
 |11/29/2021|Yucheng Tang |Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis| CT & MRI |3D| [PyTorch](https://monai.io/research/swin-unetr)| [![arXiv](https://img.shields.io/badge/arXiv-2111.14791-b31b1b.svg)](https://arxiv.org/abs/2111.14791)|

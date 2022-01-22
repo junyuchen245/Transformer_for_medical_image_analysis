@@ -9,7 +9,7 @@ Transformer related papers in medical imaging.
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
-|01/04/2022|Ali Hatamizadeh |Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images| MRI |3D| [PyTorch](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETRN/A) | [![arXiv](https://img.shields.io/badge/arXiv-2201.01266-b31b1b.svg)](https://arxiv.org/abs/2201.01266)|
+|01/04/2022|Ali Hatamizadeh |Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images| MRI |3D| [PyTorch](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR) | [![arXiv](https://img.shields.io/badge/arXiv-2201.01266-b31b1b.svg)](https://arxiv.org/abs/2201.01266)|
 |01/03/2022|Yixuan Wu |D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation| MRI & CT |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2201.00462-b31b1b.svg)](https://arxiv.org/abs/2201.00462)|
 |12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|
 |12/09/2021|Xiangde Luo |Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer| MRI |2D| [PyTorch](https://github.com/HiLab-git/SSL4MIS)| [![arXiv](https://img.shields.io/badge/arXiv-2112.04894-b31b1b.svg)](https://arxiv.org/abs/2112.04894)|

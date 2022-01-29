@@ -5,10 +5,11 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 01/22/2022*
+*Last updated: 01/29/2022*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|01/26/2022|Shiqi Huang |RTNet: Relation Transformer Network for Diabetic Retinopathy Multi-lesion Segmentation| DR |2D| N/A | IEEE TMI [![arXiv](https://img.shields.io/badge/arXiv-2201.11037-b31b1b.svg)](https://arxiv.org/abs/2201.11037)|
 |01/04/2022|Ali Hatamizadeh |Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images| MRI |3D| [PyTorch](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR) | [![arXiv](https://img.shields.io/badge/arXiv-2201.01266-b31b1b.svg)](https://arxiv.org/abs/2201.01266)|
 |01/03/2022|Yixuan Wu |D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation| MRI & CT |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2201.00462-b31b1b.svg)](https://arxiv.org/abs/2201.00462)|
 |12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|

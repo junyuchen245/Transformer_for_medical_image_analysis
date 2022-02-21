@@ -9,6 +9,7 @@ Transformer related papers in medical imaging.
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|01/30/2022|Jiangyun Li |TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation| CT & MRI |3D| [PyTorch](https://github.com/Wenxuan-1119/TransBTS) | [![arXiv](https://img.shields.io/badge/arXiv-2201.12785-b31b1b.svg)](https://arxiv.org/abs/2201.12785)|
 |01/26/2022|Shiqi Huang |RTNet: Relation Transformer Network for Diabetic Retinopathy Multi-lesion Segmentation| DR |2D| N/A | IEEE TMI [![arXiv](https://img.shields.io/badge/arXiv-2201.11037-b31b1b.svg)](https://arxiv.org/abs/2201.11037)|
 |01/04/2022|Ali Hatamizadeh |Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images| MRI |3D| [PyTorch](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR) | [![arXiv](https://img.shields.io/badge/arXiv-2201.01266-b31b1b.svg)](https://arxiv.org/abs/2201.01266)|
 |01/03/2022|Yixuan Wu |D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation| MRI & CT |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2201.00462-b31b1b.svg)](https://arxiv.org/abs/2201.00462)|
@@ -55,6 +56,7 @@ Transformer related papers in medical imaging.
 ## Image Classification
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|02/13/2022|Sangjoon Park |AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation| X-ray |2D | [Unknown](https://github.com/depecher/) | [![arXiv](https://img.shields.io/badge/arXiv-2202.06431-b31b1b.svg)](https://arxiv.org/abs/2202.06431)|
 |12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|
 |10/27/2021|Behnaz Gheflati |Vision Transformer for Classification of Breast Ultrasound Images| Ultrasound | 2D | N/A |[![arXiv](https://img.shields.io/badge/arXiv-2110.14731-b31b1b.svg)](https://arxiv.org/abs/2110.14731)|
 |08/20/2021|Christos Matsoukas |Is it Time to Replace CNNs with Transformers for Medical Images? | Mammograms... | 2D | [PyTorch](https://github.com/ChrisMats/medical_transformers) | ICCV 2021 Workshop[![arXiv](https://img.shields.io/badge/arXiv-2108.09038-b31b1b.svg)](https://arxiv.org/abs/2108.09038)|

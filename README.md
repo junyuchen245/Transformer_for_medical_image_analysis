@@ -5,10 +5,11 @@ Transformer related papers in medical imaging.
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>
 
-*Last updated: 03/14/2022*
+*Last updated: 03/17/2022*
 ## Image Segmentation
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|03/10/2022|Lihao Liu |PC-SwinMorph: Patch Representation for Unsupervised Medical Image Registration and Segmentation| MRI |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.05684-b31b1b.svg)](https://arxiv.org/abs/2203.05684)|
 |03/10/2022|Lei Zhou |Self Pre-training with Masked Autoencoders for Medical Image Analysis| CT & MRI |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.05573-b31b1b.svg)](https://arxiv.org/abs/2203.05573)|
 |01/30/2022|Jiangyun Li |TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation| CT & MRI |3D| [PyTorch](https://github.com/Wenxuan-1119/TransBTS) | [![arXiv](https://img.shields.io/badge/arXiv-2201.12785-b31b1b.svg)](https://arxiv.org/abs/2201.12785)|
 |01/26/2022|Shiqi Huang |RTNet: Relation Transformer Network for Diabetic Retinopathy Multi-lesion Segmentation| DR |2D| N/A | IEEE TMI [![arXiv](https://img.shields.io/badge/arXiv-2201.11037-b31b1b.svg)](https://arxiv.org/abs/2201.11037)|
@@ -50,13 +51,15 @@ Transformer related papers in medical imaging.
 ## Image Registration
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|03/10/2022|Lihao Liu |PC-SwinMorph: Patch Representation for Unsupervised Medical Image Registration and Segmentation| MRI |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.05684-b31b1b.svg)](https://arxiv.org/abs/2203.05684)|
 |11/19/2021|Junyu Chen |TransMorph: Transformer for unsupervised medical image registration | MRI & CT | 3D | [PyTorch](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) | [![arXiv](https://img.shields.io/badge/arXiv-2111.10480-b31b1b.svg)](https://arxiv.org/abs/2111.10480)|
 |09/25/2021|Yungeng Zhang |Learning Dual Transformer Network for Diffeomorphic Registration | MRI | 3D | N/A | MICCAI 2021 [Springer](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)|
 |04/13/2021|Junyu Chen |ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration | MRI | 3D | [PyTorch](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch) | MIDL 2021 [![arXiv](https://img.shields.io/badge/arXiv-2104.06468-b31b1b.svg)](https://arxiv.org/abs/2104.06468)|
 
-## Image Classification
+## Image Classification & Detection
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|03/12/2022|Heqin Zhu |DATR: Domain-adaptive transformer for multi-domain landmark detection| X-Ray |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.06433-b31b1b.svg)](https://arxiv.org/abs/2203.06433)|
 |03/10/2022|Lei Zhou |Self Pre-training with Masked Autoencoders for Medical Image Analysis| CT & MRI |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.05573-b31b1b.svg)](https://arxiv.org/abs/2203.05573)|
 |02/13/2022|Sangjoon Park |AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation| X-ray |2D | [Unknown](https://github.com/depecher/) | [![arXiv](https://img.shields.io/badge/arXiv-2202.06431-b31b1b.svg)](https://arxiv.org/abs/2202.06431)|
 |12/17/2021|Yutong Xie |Unified 2D and 3D Pre-training for Medical Image Classification and Segmentation| X-ray & CT |2D & 3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2112.09356-b31b1b.svg)](https://arxiv.org/abs/2112.09356)|

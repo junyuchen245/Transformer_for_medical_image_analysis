@@ -1,6 +1,10 @@
 # Transformer For Medical Image Analysis
 Transformer related papers in medical imaging.
 
+Please check out our survey paper:\
+<a href="https://arxiv.org/abs/2206.01136">Li, J., Chen, J., Tang, Y., Wang, C., Landman, B. A. and Zhou, S. K. "Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. " arXiv, 2022.</a>
+
+
 <p align="center">
 <img src="https://github.com/junyuchen245/Transformers_for_medical_image_analysis/blob/main/FarewellConvolutions.gif" width="500"/>
 </p>

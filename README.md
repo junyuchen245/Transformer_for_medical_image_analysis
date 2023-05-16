@@ -2,7 +2,7 @@
 Transformer related papers in medical imaging.
 
 Please check out our survey paper:\
-<a href="https://arxiv.org/abs/2206.01136">Li, J., Chen, J., Tang, Y., Wang, C., Landman, B. A. and Zhou, S. K. "Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. " arXiv, 2022.</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1361841523000233">Li, J., Chen, J., Tang, Y., Wang, C., Landman, B. A., & Zhou, S. K. (2023). Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives. Medical image analysis, 102762.</a>
 
 
 <p align="center">
